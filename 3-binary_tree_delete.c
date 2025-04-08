@@ -2,7 +2,7 @@
 /**
  * binary_tree_delete - Fonction qui supprime un arbre binaire entier
  * @tree: Pointeur sur le nœud racine de l'arbre à supprimer
- * Return : Rien car type de retour void
+ * Return: Rien car type de retour void
  */
 
 void binary_tree_delete(binary_tree_t *tree)
