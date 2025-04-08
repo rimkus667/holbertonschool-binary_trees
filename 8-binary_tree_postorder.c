@@ -2,7 +2,7 @@
 /**
  * binary_tree_postorder - parcours post-order d'un arbre binaire
  * @tree: pointeur vers la racine de l'arbre que je vais parcourir
- * @func: pointeur vers une fonction qui sera appelée pour chaque nœud traversé
+ * @func: Fonction à appeler pour chaque nœud visité
  * Return: Rien car type de retour void
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
