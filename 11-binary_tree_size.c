@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_size - Fonction qui mesure la taille d'un arbre binaire
- * @tree: Pointeur sur le nœud racine de l'arbre dont on veut mesurer la taille
+ * @tree: Ptr sur le nœud racine de l'arbre dont on veut mesurer la taille
  * Return: Taille de l'arbre (nombre total de nœuds), ou 0 si NULL
  */
 size_t binary_tree_size(const binary_tree_t *tree)
