@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
- * binary_tree_height - Fonction qui mesure la hauteur d'un arbre binaire
- * @tree: Pointeur sur le nœud racine de l'arbre pour mesurer la hauteur
+ * binary_tree_height - Fctn qui mesure la hauteur d'un arbre binaire
+ * @tree: Ptr sur le nœud racine de l'arbre pour mesurer la hauteur
  * Return: Hauteur de l'arbre, ou 0 si NULL
  */
 
